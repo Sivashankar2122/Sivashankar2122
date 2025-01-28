@@ -1,4 +1,4 @@
-## Hi 👋 I'M Sivashankar G 
+## Hi 👋 I'm Sivashankar G 
 
 <!--
 **Sivashankar2122/Sivashankar2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
