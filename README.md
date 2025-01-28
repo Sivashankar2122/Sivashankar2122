@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Laravel,Golang**
 
-- 👯 I’m looking to collaborate on **EJ Dashboard**
+- 👯 I’m looking to collaborate on **on Flutter-basemobile apps and innovative UI/UX designs.**
 
 - 💬 Ask me about **Flutter,Dart,PHP,JS,SQL**
 
