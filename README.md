@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sivashankar G</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Room Booking software**
+- 🔭 I’m currently working on **ERP software**
 
-- 🌱 I’m currently learning **React,Laravel,Golang**
+- 🌱 I’m currently learning **Advanced Flutter and React, Laravel, Golang**
 
 - 👯 I’m looking to collaborate on **on Flutter-basemobile apps and innovative UI/UX designs.**
 
-- 💬 Ask me about **Flutter,Dart,PHP,JS,SQL**
+- 💬 Ask me about **Flutter, Dart, PHP, JS, SQL**
 
 - 📫 How to reach me **sivashankargg22@gmail.com**
 
